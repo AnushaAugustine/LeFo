@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">LeFo</string>
+    <string name="lead">Lead</string>
+    <string name="follow">Follow</string>
+    <string name="Lead">Lead</string>
+    <string name="button">Button</string>
+    <string name="lefo_code">LeFo Code</string>
+    <string name="enter_code_here">enter code here</string>
+    <string name="qr_code">QR Code</string>
+    <string name="scan_qr_code">Scan QR Code</string>
+    <string name="start_pursuit">Start pursuit</string>
+    <string name="view_followers">View Followers</string>
+</resources>
